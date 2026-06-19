@@ -28,7 +28,7 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 ### 🎮 Discord Status
 <!-- Tao nhét mẹ cái ID 1163901008397729832 của mày vào rồi, cái theme=dark với borderRadius=15 cho nó bo góc nuột như Ngọc Trinh luôn -->
 <a href="https://discord.com/users/1163901008397729832">
-  <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15" width="400"/>
+  <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15px&v=69" width="400"/>
 </a>
 
 <br>
