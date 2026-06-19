@@ -2,7 +2,7 @@
 
 <a href="#">
   <!-- Đjt mẹ nhớ dùng Figma bo góc cái ảnh con thỏ đi rồi thay link vào cái chỗ src="..." này nhé con chó -->
-  <img align="right" src="https://i.imgur.com/LINK_ANH_THO_HONG_DA_BO_GOC.png" width="320" />
+  <img align="right" src="https://static.zerochan.net/Evanescia.1024.4677711.webp" width="320" />
 </a>
 
 I'm a casual developer who started coding.
