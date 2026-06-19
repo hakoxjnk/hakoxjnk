@@ -23,15 +23,11 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 ### 📇 Contact
 💬 Portfolio or something: [Hakoxjnk.io.vn](https://hakoxjnk.io.vn)
 
-<br>
-
 ### 🎮 Discord Status
 <!-- Tao nhét mẹ cái ID 1163901008397729832 của mày vào rồi, cái theme=dark với borderRadius=15 cho nó bo góc nuột như Ngọc Trinh luôn -->
 <a href="https://discord.com/users/1163901008397729832">
   <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15px&v=69" width="400"/>
 </a>
-
-<br>
 
 ### ⭐ Achievements
 <!-- Tao ném tạm 3 cái ảnh placeholder màu tối vào đây cho nó dàn khung hàng ngang. Mày tự up 3 cái ảnh wibu của mày lên Imgur rồi thay 3 cái link src bên dưới nhé -->
