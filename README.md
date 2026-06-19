@@ -26,5 +26,5 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 ### 🎮 Discord Status
 <!-- Phải thay ID Discord của mày vào 2 chỗ bên dưới -->
 <a href="https://discord.com/users/1163901008397729832">
-  <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&bg=00000000" width="320"/>
+  <img src="[https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15](https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15)" width="320"/>
 </a>
