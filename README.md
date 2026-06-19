@@ -21,7 +21,7 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 </a>
 
 ### 📇 Contact
-💬 Portfolio or something: [cunchua.tech](https://cunchua.tech)
+💬 Portfolio or something: [Hakoxjnk.io.vn](https://hakoxjnk.io.vn)
 
 <br>
 
@@ -35,6 +35,6 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 ### ⭐ Achievements
 <!-- Tao ném tạm 3 cái ảnh placeholder màu tối vào đây cho nó dàn khung hàng ngang. Mày tự up 3 cái ảnh wibu của mày lên Imgur rồi thay 3 cái link src bên dưới nhé -->
-<img src="[https://placehold.co/260x120/1e1e2e/ffb86c?text=Hako+1](https://camo.githubusercontent.com/eb5876a78a3e9ae579a9ccacc521153f82342716401910f3b6c9e8a8052ed8c6/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67)" width="260" height="120" /> <img src="https://placehold.co/260x120/1e1e2e/ff79c6?text=Hako+2" width="260" height="120" /> <img src="https://placehold.co/260x120/1e1e2e/8be9fd?text=Hako+3" width="260" height="120" />
+<img src="https://camo.githubusercontent.com/eb5876a78a3e9ae579a9ccacc521153f82342716401910f3b6c9e8a8052ed8c6/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67" width="260" height="120" /> <img src="https://camo.githubusercontent.com/eb5876a78a3e9ae579a9ccacc521153f82342716401910f3b6c9e8a8052ed8c6/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67" width="260" height="120" /> <img src="https://camo.githubusercontent.com/eb5876a78a3e9ae579a9ccacc521153f82342716401910f3b6c9e8a8052ed8c6/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67" width="260" height="120" />
 
 *get some achievements here: [achievements.md](#)*
