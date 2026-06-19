@@ -32,6 +32,6 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 ### ⭐ Achievements
 
-<img src="https://i.pinimg.com/1200x/bc/83/1a/bc831a577b896863f4dfab76d18c3705.jpg" width="260" height="120" /> <img src="https://i.imgur.com/link_anh_2.png" width="260" height="120" /> <img src="https://i.imgur.com/link_anh_3.png" width="260" height="120" />
+<img src="https://i.pinimg.com/1200x/bc/83/1a/bc831a577b896863f4dfab76d18c3705.jpg" width="260" height="120" /> <img src="[https://i.imgur.com/link_anh_2.png](https://i.pinimg.com/1200x/a6/5d/9e/a65d9e38ca86ffacd1aa23e156458c84.jpg)" width="260" height="120" /> <img src="[https://i.imgur.com/link_anh_3.png](https://i.pinimg.com/736x/9d/e3/23/9de323c8b5523d35e5877effe67e10fe.jpg)" width="260" height="120" />
 
 *get some achievements here: [achievements.md](#)*
