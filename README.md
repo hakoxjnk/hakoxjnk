@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Cún!
 
 <a href="#">
-  <!-- Thay link ảnh mày thích vào chỗ src dưới đây -->
-  <img align="right" src="https://i.pinimg.com/1200x/ab/e9/4a/abe94a5ba926f08827919e2d4f114a2c.jpg" width="280" />
+  <!-- Mày PHẢI bo góc cái ảnh con thỏ hồng bằng Figma rồi lấy link mới đắp vào chỗ src này nhé. Tao ép size xuống 320 cho nó vừa vặn rồi! -->
+  <img align="right" src="https://i.imgur.com/LINK_ANH_THO_HONG_DA_BO_GOC_CUA_MAY.png" width="320" />
 </a>
 
 I'm a casual developer who started coding.
@@ -17,21 +17,24 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 ### 🛠 Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=npm,vercel,cloudflare,vscode,figma,illustrator" />
+  <img src="https://skillicons.dev/icons?i=npm,vercel,cloudflare,vscode,figma,ai" />
 </a>
 
 ### 📇 Contact
-💬 Portfolio or something: [cunchua.tech](https://link-web-cua-may.com)
+💬 Portfolio or something: [cunchua.tech](https://cunchua.tech)
+
+<br>
 
 ### 🎮 Discord Status
-
-<!-- Phải thay ID Discord của mày vào 2 chỗ bên dưới -->
 <a href="https://discord.com/users/1163901008397729832">
-  <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15" width="320"/>
+  <!-- Tao ép width lên 400 cho cái bảng nó to nạc, kéo dài ra y chang thằng wibu kia -->
+  <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15" width="400"/>
 </a>
 
-### ⭐ Achievements
+<br>
 
-<img src="https://i.pinimg.com/1200x/bc/83/1a/bc831a577b896863f4dfab76d18c3705.jpg" width="260" height="120" /> <img src="[https://i.imgur.com/link_anh_2.png](https://i.pinimg.com/1200x/a6/5d/9e/a65d9e38ca86ffacd1aa23e156458c84.jpg)" width="260" height="120" /> <img src="[https://i.imgur.com/link_anh_3.png](https://i.pinimg.com/736x/9d/e3/23/9de323c8b5523d35e5877effe67e10fe.jpg)" width="260" height="120" />
+### ⭐ Achievements
+<!-- Tao ném tạm 3 cái ảnh màu tối tối (placeholder) vào cho nó lấp đầy 3 ô. Mày tự lên mạng kiếm 3 cái ảnh wibu xịn rồi thay vào 3 cái link src bên dưới nhé -->
+<img src="https://placehold.co/260x120/1e1e2e/ffb86c?text=Hako+1" width="260" height="120" /> <img src="https://placehold.co/260x120/1e1e2e/ff79c6?text=Hako+2" width="260" height="120" /> <img src="https://placehold.co/260x120/1e1e2e/8be9fd?text=Hako+3" width="260" height="120" />
 
 *get some achievements here: [achievements.md](#)*
