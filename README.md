@@ -2,7 +2,7 @@
 
 <a href="#">
   <!-- Thay link ảnh mày thích vào chỗ src dưới đây -->
-  <img align="right" src="https://i.imgur.com/YOUR_IMAGE_LINK.png" width="280" />
+  <img align="right" src="https://i.pinimg.com/736x/a1/84/cd/a184cdd3f9476023540c8b50ccb70608.jpg" width="280" />
 </a>
 
 I'm a casual developer who started coding.
