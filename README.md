@@ -1,32 +1,40 @@
-### 👋 Hi there, I'm Hako!
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="#">
-  <img align="right" src="https://i.ibb.co/G4ZmdwS9/rounded-in-photoretrica.png" width="320" />
-</a>
+<!-- Bố cục Cyberpunk Wibu by Tèo -->
 
-I'm a casual developer who started coding.
-I build things mostly for fun, curiosity, and sometimes just to see if I can.
+<div align="center">
+  <!-- Ảnh GIF Banner ngầu lòi -->
+  <img src="https://i.pinimg.com/originals/11/4a/1b/114a1b02848caea4f114c026b48455c1.gif" width="100%" style="border-radius: 15px;" />
+  
+  <br><br>
+  
+  <!-- Hiệu ứng gõ chữ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Cún!+👋;Casual+Code+Enjoyer;Eat.+Sleep.+Code.+Watch+Anime." alt="Typing SVG" />
+  </a>
+</div>
 
-Currently exploring modern web tech, UI/UX, and enjoying the process one line of code at a time.
+<br>
 
-### 🌐 Tech stack
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,cpp,php,react,nextjs,tailwind,sass" />
-</a>
+### 💻 Bảng Phong Thần (GitHub Stats)
+<div align="center">
+  <!-- Cái bảng này tự động xếp Rank code của mày. Chữ đang màu Neon -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+</div>
 
-### 🛠 Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=npm,vercel,cloudflare,vscode,figma,ai" />
-</a>
+<br>
 
-### 📇 Contact
-💬 Portfolio or something: [Hakoxjnk.io.vn](https://hakoxjnk.io.vn)
+### 🚀 Live Projects (Sản Phẩm Đã Lên Thớt)
+*Dăm ba cái project chạy local ai thèm khoe, web bố mày có domain thật:*
+- 🛒 **[Shopgame24h.io.vn](https://shopgame24h.io.vn)** - Gaming stuff. *(Powered by Next.js & Cloudflare)*
+- 🍜 **[Anvat.online](https://anvat.online)** - Chuyên mục ăn uống. *(Deployed via Vercel)*
+- 🌸 **[Teenvanhoa.online](https://teenvanhoa.online)** - Culture blog. 
 
-<a href="https://discord.com/users/1163901008397729832">
-  <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=dark&borderRadius=15px&v=69" width="400"/>
-</a>
+<br>
 
-### ⭐ Achievements
-<img src="https://camo.githubusercontent.com/eb5876a78a3e9ae579a9ccacc521153f82342716401910f3b6c9e8a8052ed8c6/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67" width="260" height="120" /> <img src="https://camo.githubusercontent.com/af721b62f7b45f1214b709e6c081504d4a367f8dba8618adba8eb1ee58c5a710/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d61686f752d73686f756a6f2d312e706e67" width="260" height="120" /> <img src="https://camo.githubusercontent.com/292eff9ddbf6beae01a7860e06c25df0a1e0813a44d28089cf072cc707cd9f58/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d757369632d312e706e67" width="260" height="120" />
-
-*get some achievements here: [achievements.md](#)*
+### 🎧 Vibe & Chill
+<div align="center">
+  <!-- Gắn cái Lanyard Discord vào đây, tự hiện mày đang chơi Valorant hay nghe Spotify -->
+  <a href="https://discord.com/users/1163901008397729832">
+    <img src="https://lanyard.cnrad.dev/api/1163901008397729832?theme=tokyonight&borderRadius=15px&v=1" width="350"/>
+  </a>
+</div>
