@@ -16,7 +16,7 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 ### 🛠 Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,vscode,figma,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,vscode,figma,ai,ps,java,c++" />
 </a>
 
 ### 📇 Contact
