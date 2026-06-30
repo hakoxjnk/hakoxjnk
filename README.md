@@ -11,12 +11,12 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 ### 🌐 Tech stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=css,js,php,nextjs,tailwind,html" />
+  <img src="https://skillicons.dev/icons?i=css,js,php,nextjs,tailwind,html,java" />
 </a>
 
 ### 🛠 Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,vscode,figma,ai,ps,java,c++" />
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,vscode,figma,ai,ps,c++" />
 </a>
 
 ### 📇 Contact
