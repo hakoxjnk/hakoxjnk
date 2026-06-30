@@ -11,7 +11,7 @@ Currently exploring modern web tech, UI/UX, and enjoying the process one line of
 
 ### 🌐 Tech stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,cpp,php,react,nextjs,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,react,nextjs,tailwind,sass" />
 </a>
 
 ### 🛠 Tools
